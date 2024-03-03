@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓I am in my last year pursuing a bachelor's degree in CS and ML. <br>🔬Doing research on Graph RAGs and tokenization for my dissertation.<br>👏 I'd be happy to collaborate on various ML projects.<br>📪 Feel free to add me on LinkedIn 😊
+🎓I am in the last year of my bachelor's degree in CS and ML. <br>🔬Doing research on Graph RAGs, LLMs and tokenization for my dissertation.<br>👏 I'd be happy to collaborate on various ML/DL projects.<br>📪 Feel free to add me on LinkedIn 😊
 
 
 ## 🌐 Socials:
